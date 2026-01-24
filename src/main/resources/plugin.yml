@@ -1,0 +1,4 @@
+name: MendingBuff
+version: '${project.version}'
+api-version: 1.12
+main: com.parknich.mendingbuff.MendingBuff
